@@ -1011,9 +1011,9 @@
     },
     {
         "id": "webdash",
-        "title": "Geometry Dash Webport",
+        "title": "Web Dashers",
         "url": "https://raw.githack.com/web-dashers/web-dashers.github.io/main/index.html",
-        "thumb": "gdweb.png"
+        "thumb": "webdashers.png"
     },
     {
         "id": "melon",
@@ -1668,5 +1668,11 @@
         "title": "A Difficult Game About Climbing",
         "url": "https://raw.githack.com/web-ports/adgac/main/index.html",
         "thumb": "adgac.png"
+    },
+    {
+        "id": "gdweb",
+        "title": "Geometry Dash",
+        "url": "https://raw.githack.com/hazzatazza/geometry-dash-wasm/main/index.html",
+        "thumb": "gdweb.png"
     }
 ]
