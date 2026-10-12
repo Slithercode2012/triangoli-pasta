@@ -682,7 +682,7 @@
     {
         "id": "knihit",
         "title": "Knife Hit",
-        "url": "https://raw.githack.com/marty-games/mga-construct/main/knife-hit/index.html",
+        "url": "https://raw.githack.com/hazzatazza/the-stash/main/multifile/knifehit2/plays.org/game/knife-hit/index.html",
         "thumb": "knifehit.png"
     },
     {
@@ -1674,5 +1674,29 @@
         "title": "Geometry Dash",
         "url": "https://raw.githack.com/hazzatazza/geometry-dash-wasm/main/index.html",
         "thumb": "gdweb.png"
+    },
+    {
+        "id": "cwc",
+        "title": "Cricket World Cup",
+        "url": "https://raw.githack.com/hazzatazza/the-stash/main/multifile/cricketworldcupmaybe/5ret6v2c94q4g.h5games.usercontent.goog/v/09j66svc50570/index.html",
+        "thumb": "cricketworldcup.png"
+    },
+    {
+        "id": "escaperoad3",
+        "title": "Escape Road 3",
+        "url": "https://raw.githack.com/hazzatazza/the-stash/main/multifile/sigmauaralarpersahur%20unity%20main%20escape-road-3/index.html",
+        "thumb": "escaperoad3.png"
+    },
+    {
+        "id": "boxelrebound",
+        "title": "Boxel Rebound",
+        "url": "https://raw.githack.com/hazzatazza/the-stash/main/singlefileoffline/boxel-rebound.html",
+        "thumb": "boxelrebound.png"
+    },
+    {
+        "id": "ragdollscr",
+        "title": "Ragdoll Soccer",
+        "url": "https://raw.githack.com/hazzatazza/the-stash/main/singlefileoffline/ragdoll-soccer.html",
+        "thumb": "ragdollsoccer.png"
     }
 ]
