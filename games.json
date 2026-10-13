@@ -1679,7 +1679,7 @@
     {
         "id": "gdweb",
         "title": "Geometry Dash",
-        "url": "https://raw.githack.com/hazzatazza/geometry-dash-wasm/main/index.html",
+        "url": "https://raw.githack.com/hazzatazza/the-stash/main/gdwebport.html",
         "thumb": "gdweb.png"
     },
     {
