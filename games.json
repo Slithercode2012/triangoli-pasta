@@ -50,6 +50,13 @@
         "type": "app"
     },
     {
+        "id": "ytvidplayer",
+        "title": "Youtube Video Player",
+        "url": "https://raw.githack.com/hazzatazza/the-stash/main/html%20for%20other%20stuff/ytvideoplayer.html",
+        "thumb": "youtube.png",
+        "type": "app"
+    },
+    {
         "id": "bf3d",
         "title": "Bottle Flip 3D",
         "url": "https://raw.githack.com/ovo-gamez-unblocked/bottle-flip-3d/main/index.html",
