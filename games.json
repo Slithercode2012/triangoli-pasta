@@ -406,7 +406,7 @@
     },
     {
         "id": "au",
-        "title": "Among Us",
+        "title": "Among Us Remake",
         "url": "https://raw.githack.com/CoolDude2349/Offline-HTML-Games-Pack/master/offline/among-us.html",
         "thumb": "amongus.png"
     },
@@ -1705,5 +1705,11 @@
         "title": "Ragdoll Soccer",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/singlefileoffline/ragdoll-soccer.html",
         "thumb": "ragdollsoccer.png"
+    },
+    {
+        "id": "amongussussy",
+        "title": "Among Us",
+        "url": "https://raw.githack.com/wasmdotrip/AmongUsPort/main/index.html",
+        "thumb": "amongusport.png"
     }
 ]
