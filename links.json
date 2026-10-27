@@ -106,5 +106,11 @@
         "title": "Practice Algebra",
         "url": "https://practicealgebra.pages.dev/",
         "icon": "fa-link"
+    },
+    {
+        "id": "relegation-watch-sports",
+        "title": "Relegation Watch Sports",
+        "url": "https://relegation-watch-sports.225197.workers.dev/",
+        "icon": "fa-link"
     }
 ]

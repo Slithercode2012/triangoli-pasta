@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Relegation Watch Sports">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="48" fill="url(#bg)"/>
+  <circle cx="256" cy="178" r="112" fill="rgba(255,255,255,0.14)" stroke="rgba(255,255,255,0.5)" stroke-width="8"/>
+  <path d="M165 292c26-38 63-57 91-57s65 19 91 57" fill="none" stroke="#f8fafc" stroke-width="16" stroke-linecap="round"/>
+  <path d="M210 234h92" stroke="#f8fafc" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="256" cy="175" r="18" fill="#f8fafc"/>
+  <text x="256" y="390" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="middle" fill="#f8fafc">RWS</text>
+</svg>
